@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Carousel Application</string>
+    <string name="facebook_app_id">1486830558002091</string>
+    <string name="fb_login_protocol_scheme">1486830558002091</string>
+    <string name="login_prompt">Please Login to Continue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continue_text"><![CDATA[Continue ->]]></string>
+    <string name="title_activity_add_score">AddScoreActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
